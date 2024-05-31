@@ -1,0 +1,7 @@
+{
+    "Name": [ "Anakin", "Amidala", "Luke", "R2-D2" ],
+    "Gender": [ "male", "female", "male", "unknown" ],
+    "Homeworld": [ "Tatooine", "Naboo", "Tatooine", "Naboo" ],
+    "Born": [ "41.9BBY", "46BBY", "19BBY", "33BBY" ],
+    "Jedi": [ "yes", "no", "yes", "no" ] 
+  }
